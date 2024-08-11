@@ -3,6 +3,7 @@ Car Sales Analysis Dashboard
 Description: Created an Excel-based dashboard to analyze various dimensions of car sales, focusing on company performance, customer demographics, and sales trends.
 
 Key Responsibilities:
+
 1.Analyzed total sales revenue by car companies to identify market leaders.
 
 2.Assessed car purchasing power and trends by different customer segments.
